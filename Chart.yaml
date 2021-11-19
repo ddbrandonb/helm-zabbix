@@ -11,7 +11,7 @@ keywords:
 home: https://www.zabbix.com/
 icon: https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png
 source:
-  - https://github.com/cetic/helm-zabbix
+  - https://github.com/ddbrandonb/helm-zabbix
 maintainers:
   - name: Amen Ayadi
     email: amen.ayadi@cetic.be
